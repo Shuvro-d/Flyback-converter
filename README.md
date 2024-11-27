@@ -6,5 +6,5 @@ Step-3 : Simulation in ltspice (done)
 Step-4 : Ordering the components (done)
 Step-5 : Making the flyback transformer
 Step-6 : Designing the PCB
-Step-7 : Implementing it on bread board
+Step-7 : Implementing it on breadboard
 Step-8 : Implementing it on PCB
